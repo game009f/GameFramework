@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "游戏框架", "游戏框架\游戏框架.csproj", "{DD311013-CC91-496B-9E51-4A7AB3B57010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口练习", "接口练习\接口练习.csproj", "{6C5A45E0-DDD8-4E38-94F9-13267B43BF83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDI练习", "GDI练习\GDI练习.csproj", "{DBABBFE7-F3D9-47CF-A11B-F3137C2B936A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型练习", "泛型练习\泛型练习.csproj", "{39361C92-423D-4DF4-9079-8E775BEFAC67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型接口", "泛型接口\泛型接口.csproj", "{64681087-1EDE-4B22-A1EB-7702C0534FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "移除泛型对象", "移除泛型对象\移除泛型对象.csproj", "{47C128DA-E121-45E6-A341-8D227AD08AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "移除指定委托", "移除指定委托\移除指定委托.csproj", "{A875D9E7-ACE1-4BCF-AE48-1E224D44217F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "移除指定对象", "移除指定对象\移除指定对象.csproj", "{D03080AA-A9C4-4F2F-AA4C-CE8CFB1A5D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD311013-CC91-496B-9E51-4A7AB3B57010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD311013-CC91-496B-9E51-4A7AB3B57010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD311013-CC91-496B-9E51-4A7AB3B57010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD311013-CC91-496B-9E51-4A7AB3B57010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5A45E0-DDD8-4E38-94F9-13267B43BF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5A45E0-DDD8-4E38-94F9-13267B43BF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5A45E0-DDD8-4E38-94F9-13267B43BF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5A45E0-DDD8-4E38-94F9-13267B43BF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBABBFE7-F3D9-47CF-A11B-F3137C2B936A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBABBFE7-F3D9-47CF-A11B-F3137C2B936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBABBFE7-F3D9-47CF-A11B-F3137C2B936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBABBFE7-F3D9-47CF-A11B-F3137C2B936A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39361C92-423D-4DF4-9079-8E775BEFAC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39361C92-423D-4DF4-9079-8E775BEFAC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39361C92-423D-4DF4-9079-8E775BEFAC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39361C92-423D-4DF4-9079-8E775BEFAC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64681087-1EDE-4B22-A1EB-7702C0534FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64681087-1EDE-4B22-A1EB-7702C0534FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64681087-1EDE-4B22-A1EB-7702C0534FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64681087-1EDE-4B22-A1EB-7702C0534FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C128DA-E121-45E6-A341-8D227AD08AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C128DA-E121-45E6-A341-8D227AD08AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C128DA-E121-45E6-A341-8D227AD08AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C128DA-E121-45E6-A341-8D227AD08AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A875D9E7-ACE1-4BCF-AE48-1E224D44217F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A875D9E7-ACE1-4BCF-AE48-1E224D44217F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A875D9E7-ACE1-4BCF-AE48-1E224D44217F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A875D9E7-ACE1-4BCF-AE48-1E224D44217F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03080AA-A9C4-4F2F-AA4C-CE8CFB1A5D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03080AA-A9C4-4F2F-AA4C-CE8CFB1A5D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03080AA-A9C4-4F2F-AA4C-CE8CFB1A5D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03080AA-A9C4-4F2F-AA4C-CE8CFB1A5D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD311013-CC91-496B-9E51-4A7AB3B57010}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>游戏框架</RootNamespace>
+    <AssemblyName>游戏框架</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Delegates.cs" />
+    <Compile Include="Common\GState.cs" />
+    <Compile Include="Common\GType.cs" />
+    <Compile Include="Common\TransForm.cs" />
+    <Compile Include="Component\Component.cs" />
+    <Compile Include="Component\IComponents.cs" />
+    <Compile Include="Component\ShootingComponent.cs" />
+    <Compile Include="Render\SpriteRender.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameObject.cs" />
+    <Compile Include="GameSence.cs" />
+    <Compile Include="Render\BackgroundRender.cs" />
+    <Compile Include="Render\BulletRender.cs" />
+    <Compile Include="Render\PlayerRender.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alienbomb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appleicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\characterset.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entities.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gamebackdrop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gameover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hiscore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iphonestartup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\levelcomplete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\levelflag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monstersheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notportrait.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playericon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playermissile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playersheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playpause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\starfightersheet.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staricon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titlescreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volumecontrols.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
