@@ -1,0 +1,6 @@
+C:\Users\qq834\Desktop\游戏框架\泛型练习\bin\Debug\泛型练习.exe.config
+C:\Users\qq834\Desktop\游戏框架\泛型练习\bin\Debug\泛型练习.exe
+C:\Users\qq834\Desktop\游戏框架\泛型练习\bin\Debug\泛型练习.pdb
+C:\Users\qq834\Desktop\游戏框架\泛型练习\obj\Debug\泛型练习.csprojResolveAssemblyReference.cache
+C:\Users\qq834\Desktop\游戏框架\泛型练习\obj\Debug\泛型练习.exe
+C:\Users\qq834\Desktop\游戏框架\泛型练习\obj\Debug\泛型练习.pdb

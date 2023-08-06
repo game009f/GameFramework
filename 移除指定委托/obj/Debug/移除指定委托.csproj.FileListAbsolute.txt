@@ -1,0 +1,5 @@
+C:\Users\qq834\Desktop\游戏框架\移除指定委托\bin\Debug\移除指定委托.exe.config
+C:\Users\qq834\Desktop\游戏框架\移除指定委托\bin\Debug\移除指定委托.exe
+C:\Users\qq834\Desktop\游戏框架\移除指定委托\bin\Debug\移除指定委托.pdb
+C:\Users\qq834\Desktop\游戏框架\移除指定委托\obj\Debug\移除指定委托.exe
+C:\Users\qq834\Desktop\游戏框架\移除指定委托\obj\Debug\移除指定委托.pdb

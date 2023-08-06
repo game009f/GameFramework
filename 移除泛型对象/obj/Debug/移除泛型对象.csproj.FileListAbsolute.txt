@@ -1,0 +1,5 @@
+C:\Users\qq834\Desktop\游戏框架\移除泛型对象\bin\Debug\移除泛型对象.exe.config
+C:\Users\qq834\Desktop\游戏框架\移除泛型对象\bin\Debug\移除泛型对象.exe
+C:\Users\qq834\Desktop\游戏框架\移除泛型对象\bin\Debug\移除泛型对象.pdb
+C:\Users\qq834\Desktop\游戏框架\移除泛型对象\obj\Debug\移除泛型对象.exe
+C:\Users\qq834\Desktop\游戏框架\移除泛型对象\obj\Debug\移除泛型对象.pdb

@@ -1,0 +1,37 @@
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\bin\Debug\GDI练习.exe.config
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\bin\Debug\GDI练习.exe
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\bin\Debug\GDI练习.pdb
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\obj\Debug\GDI练习.Form1.resources
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\obj\Debug\GDI练习.Properties.Resources.resources
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.GenerateResource.Cache
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\obj\Debug\GDI练习.exe
+C:\Users\change\Documents\Visual Studio 2013\Projects\游戏框架\GDI练习\obj\Debug\GDI练习.pdb
+C:\Users\平利\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.exe.config
+C:\Users\平利\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.exe
+C:\Users\平利\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.pdb
+C:\Users\平利\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csprojResolveAssemblyReference.cache
+C:\Users\平利\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.Form1.resources
+C:\Users\平利\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.Properties.Resources.resources
+C:\Users\平利\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.GenerateResource.Cache
+C:\Users\平利\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.exe
+C:\Users\平利\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.pdb
+C:\Users\qq834\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.exe.config
+C:\Users\qq834\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.exe
+C:\Users\qq834\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.pdb
+C:\Users\qq834\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csprojResolveAssemblyReference.cache
+C:\Users\qq834\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.Form1.resources
+C:\Users\qq834\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.Properties.Resources.resources
+C:\Users\qq834\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.GenerateResource.Cache
+C:\Users\qq834\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.exe
+C:\Users\qq834\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.pdb
+C:\Users\e3\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.exe.config
+C:\Users\e3\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.exe
+C:\Users\e3\Desktop\游戏框架\GDI练习\bin\Debug\GDI练习.pdb
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.AssemblyReference.cache
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.SuggestedBindingRedirects.cache
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.Form1.resources
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.Properties.Resources.resources
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.GenerateResource.cache
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.csproj.CoreCompileInputs.cache
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.exe
+C:\Users\e3\Desktop\游戏框架\GDI练习\obj\Debug\GDI练习.pdb

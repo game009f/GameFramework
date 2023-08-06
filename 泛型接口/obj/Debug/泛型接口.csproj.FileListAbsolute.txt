@@ -1,0 +1,5 @@
+C:\Users\qq834\Desktop\游戏框架\泛型接口\bin\Debug\泛型接口.exe.config
+C:\Users\qq834\Desktop\游戏框架\泛型接口\bin\Debug\泛型接口.exe
+C:\Users\qq834\Desktop\游戏框架\泛型接口\bin\Debug\泛型接口.pdb
+C:\Users\qq834\Desktop\游戏框架\泛型接口\obj\Debug\泛型接口.exe
+C:\Users\qq834\Desktop\游戏框架\泛型接口\obj\Debug\泛型接口.pdb
