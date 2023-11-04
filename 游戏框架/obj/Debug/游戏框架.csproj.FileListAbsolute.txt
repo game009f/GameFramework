@@ -33,3 +33,13 @@ C:\Users\e3\Desktop\游戏框架\游戏框架\obj\Debug\游戏框架.csproj.Gene
 C:\Users\e3\Desktop\游戏框架\游戏框架\obj\Debug\游戏框架.csproj.CoreCompileInputs.cache
 C:\Users\e3\Desktop\游戏框架\游戏框架\obj\Debug\游戏框架.exe
 C:\Users\e3\Desktop\游戏框架\游戏框架\obj\Debug\游戏框架.pdb
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\bin\Debug\游戏框架.exe.config
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\bin\Debug\游戏框架.exe
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\bin\Debug\游戏框架.pdb
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.csproj.AssemblyReference.cache
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.Form1.resources
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.Properties.Resources.resources
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.csproj.GenerateResource.cache
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.csproj.CoreCompileInputs.cache
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.exe
+C:\Users\e3\Documents\GitHub\GameFramework\游戏框架\obj\Debug\游戏框架.pdb

@@ -42,7 +42,6 @@ namespace 游戏框架.Component
         public override void OnUpdate(GameObject go, Rectangle rec, Graphics graphics)
         {
             base.OnUpdate(go, rec, graphics);
-            Shooting();
         }
 
         public override void OnMouseMove(GameObject go, System.Windows.Forms.MouseEventArgs e)

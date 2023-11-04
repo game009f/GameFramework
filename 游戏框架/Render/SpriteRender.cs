@@ -48,7 +48,10 @@ namespace 游戏框架.Component
 
         public SpriteRender()
         {
-            Task = new List<SpriteTask>();
+            if (Task == null)
+            {
+                Task = new List<SpriteTask>();
+            }
             BufferImage = new Bitmap(328, 488);
             BufferGraphics = Graphics.FromImage(BufferImage);
             ZIndex = 0;
